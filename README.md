@@ -1,12 +1,12 @@
 # Purchase Requisition Management System (PRMS)
 
-## 📌 Overview
+##  Overview
 
 The Purchase Requisition Management System (PRMS) is a Django-based web application designed to digitize and automate the process of creating, approving, and tracking purchase requests within an organization.
 
 It replaces manual paper-based workflows with a structured digital system that improves efficiency, transparency, and accountability.
 
-## 🚀 Features
+##  Features
 
 * User authentication and role-based access control (Employee, Manager, Admin)
 * Create and submit purchase requisitions
@@ -16,7 +16,7 @@ It replaces manual paper-based workflows with a structured digital system that i
 * Dashboard with key metrics and summaries
 * Search and filtering of requisitions
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Django
@@ -24,18 +24,18 @@ It replaces manual paper-based workflows with a structured digital system that i
 * HTML, CSS, Bootstrap
 * JavaScript
 
-## 📊 System Workflow
+##  System Workflow
 
 1. Employee submits a requisition request
 2. Manager reviews and approves/rejects
 3. Procurement/Admin gives final approval
 4. System updates status and logs actions
 
-## 🎯 Purpose
+##  Purpose
 
 This project was built to demonstrate full-stack development skills, workflow automation, and real-world business process digitization using Django.
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Email notifications for approvals
 * PDF export of requisitions
